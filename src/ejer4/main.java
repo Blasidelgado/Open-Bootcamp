@@ -1,7 +1,7 @@
 package ejer4;
 import java.util.Random;
 
-public class ejer4 {
+public class main {
     public static void main(String[] args) {
         int numeroif = new Random().nextInt((20 + 20) + 1) - 20;
         if (numeroif > 0) {
