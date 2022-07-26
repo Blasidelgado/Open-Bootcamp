@@ -1,6 +1,6 @@
 package ejer3;
 
-public class ejer3 {
+public class Main {
     public static void main(String[] args) {
         suma(2, 3, 5);
         System.out.println(suma(2, 3, 5));
