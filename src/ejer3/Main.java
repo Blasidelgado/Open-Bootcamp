@@ -13,10 +13,3 @@ public class ejer3 {
         return a + b + c;
     }
 }
-class Coche {
-    public int puertas = 4;
-
-    public void NuevaPuerta() {
-        this.puertas++;
-    }
-}
